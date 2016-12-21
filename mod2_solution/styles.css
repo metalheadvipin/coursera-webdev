@@ -40,7 +40,7 @@ section {
 	border:	1px solid black;
 	background-color: #f9f7fa;
 	width: 100%;
-	height: 250px;
+	min-height: 250px;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	color: black;
 	position: relative;

@@ -1,0 +1,25 @@
+.navbar-brand a{
+	text-decoration: none;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+
+.navbar-nav>li>a {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#title {
+	font-weight: bold;
+}
+
+#main-content p {
+	padding:10px;
+	font-size: 1.2em;
+}
+
+#chicken, #beef, #sushi {
+	margin-top: 50px;
+	
+}
